@@ -40,7 +40,7 @@ if(guild.systemChannel){ // Checking if it's not null
 });
 
 client.on('message', msg => {
-  if (msg.content.toLowerCase() === '<@605010232426364941>') {
+  if (msg.content.toLowerCase() === '<@307194098266275840>') {
     msg.reply('SAHİBİMİ LÜTFEN ETİKETLEME. :rocket:');
   }
 });
@@ -50,7 +50,7 @@ bot.on('guildMemberAdd', member => {
 });
 
 client.on('ready', () => {
-  let channel = client.channels.get('616673418888216586');
+  let channel = client.channels.get('616628229767430144');
   channel.join()
 });
 
@@ -228,13 +228,13 @@ if (message.content.toLowerCase() === prefix + "beynim") {
 
 client.on('message', msg => {
   if (msg.content === '!tag') {
-    msg.channel.send('⸘');
+    msg.channel.send('≬');
   }
 });
 
 client.on('message', msg => {
   if (msg.content === '!link') {
-    msg.channel.send('`Sınırsız Mars Seyehat Bileti:`https://discord.gg/SgjTD5c 🚀');
+    msg.channel.send('`Sınırsız Spirit Seyehat Bileti:`https://discord.gg/SgjTD5c 🚀');
   }
 });
 
