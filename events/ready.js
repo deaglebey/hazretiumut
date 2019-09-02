@@ -7,8 +7,8 @@ var prefix = ayarlar.prefix;
 
 module.exports = client => {
 var oyun = [ 
-        "Gökyüzü sadece uçmaktan korkanların sınırıdır. ",
-  "Sunucu Korunuyor🚀  "
+        "Artıla Eksi Severim Seksi.",
+  "Sunucu Korunuyor💎  "
            ];
 
     setInterval(function() {
