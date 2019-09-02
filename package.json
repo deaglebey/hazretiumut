@@ -48,7 +48,6 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://mars-protection.glitch.me",
     "url": "https://glitch.com/edit/#!/hello-express"
   },
   "license": "MIT",
