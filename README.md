@@ -1,1 +1,2 @@
-# Copyright (c) 2019 Space Realm Mars Discord: https://discord.gg/SgjTD5c
+# Copyright (c) 2020 Yahuda
+
